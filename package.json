@@ -1,7 +1,8 @@
 {
-  "name": "osmosis-frontend",
+  "name": "@mekonglabs/osmosis-frontend-1",
   "version": "0.0.1",
   "description": "",
+  "repository": "https://github.com/Mekong-labs/osmosis-frontend",
   "private": true,
   "engines": {
     "node": "20.x"
@@ -35,10 +36,6 @@
   "pre-commit": [
     "pre-commit"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/osmosis-labs/osmosis-frontend.git"
-  },
   "author": "osmosis-labs",
   "bugs": {
     "url": "https://github.com/osmosis-labs/osmosis-frontend/issues"
